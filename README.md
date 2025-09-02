@@ -80,3 +80,7 @@ required></textarea>
 </p>
 </form>
 </section>
+</main>
+<footer>
+<small>&copy; 2025 Sophia Borges. Todos os direitos reservados.</small>
+</footer>
