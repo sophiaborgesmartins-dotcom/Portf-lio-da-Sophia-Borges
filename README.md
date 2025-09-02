@@ -13,7 +13,7 @@
 <header>
 
 <h1>Portfólio de Sophia Borges</h1>
-<p>Estudante do Ensino Médio — HTML, CSS e JavaScript.</p>
+<p>Estudante do Novo Ensino Médio — HTML, CSS e JavaScript.</p>
 <nav aria-label="Navegação principal">
 <ul>
 <li><a href="#sobre">Sobre</a></li>
@@ -31,7 +31,7 @@ de frente.">
 <figcaption>Foto ilustrativa do perfil</figcaption>
 </figure>
 <p>
-Olá! Sou a Sophia e estou começando no desenvolvimento web.
+Olá! Sou a Sophia, esudante do Novo Ensino Médio.
 Gosto de aprender criando projetos simples e práticos.
 </p>
 </section>
