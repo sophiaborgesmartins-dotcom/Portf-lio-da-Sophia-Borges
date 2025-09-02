@@ -35,3 +35,27 @@ Olá! Sou a Sophia e estou começando no desenvolvimento web.
 Gosto de aprender criando projetos simples e práticos.
 </p>
 </section>
+<section id="projetos">
+<h2>Projetos</h2>
+<article>
+<h3>Lista de Tarefas (HTML)</h3>
+<p>Projeto básico com listas e links.</p>
+
+<ul>
+<li>Lista não ordenada (bullet points)</li>
+<li>Links externos com <code>target="_blank"</code></li>
+<li>Estrutura semântica</li>
+</ul>
+<p>
+Veja um exemplo de referência em
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"
+target="_blank" rel="noopener">
+MDN Web Docs
+</a>.
+</p>
+</article>
+<article>
+<h3>Página de Receitas</h3>
+<p>Estruturação de conteúdo com títulos, parágrafos e imagens.</p>
+</article>
+</section>
