@@ -42,9 +42,9 @@ Gosto de aprender criando projetos simples e práticos.
 <p>Projeto básico com listas e links.</p>
 
 <ul>
-<li>Lista não ordenada (bullet points)</li>
-<li>Links externos com <code>target="_blank"</code></li>
-<li>Estrutura semântica</li>
+<li>Ouvir música</li>
+<li>Escrever(majoritariamente poesia/poema)<code>target="_blank"</code></li>
+<li>Cozinhar</li>
 </ul>
 <p>
 Veja um exemplo de referência em
