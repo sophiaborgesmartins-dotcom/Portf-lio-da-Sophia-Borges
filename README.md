@@ -38,7 +38,7 @@ Gosto de aprender criando projetos simples e práticos.
 <section id="projetos">
 <h2>Projetos</h2>
 <article>
-<h3>Lista de Tarefas (HTML)</h3>
+<h3>Lista de Hobbies</h3>
 <p>Projeto básico com listas e links.</p>
 
 <ul>
